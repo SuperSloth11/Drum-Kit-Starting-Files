@@ -15,25 +15,36 @@ footer {
   font-family: sans-serif;
 }
 
-.w {
-}
-
 .a {
+  background-image: url(images/crash.png);
 }
 
 .s {
+  background-image: url(images/tom1.png);
 }
 
 .d {
+  background-image: url(images/tom2.png);
+}
+
+.f {
+  background-image: url(images/kick.png);
+  background-size: 150px 150px;
 }
 
 .j {
+  background-image: url(images/snare.png);
+  background-size: 150px 150px;
 }
 
 .k {
+  background-image: url(images/tom3.png);
+  background-size: 150px 150px;
 }
 
 .l {
+  background-image: url(images/tom4.png);
+  background-size: 150px 150px;
 }
 
 .set {
